@@ -21,7 +21,7 @@ To encourage the user to grant permission, the page mimics a legitimate Zoom mee
 ### Kali Linux / Ubuntu / Termux:
 ```bash
 # Clone your updated repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+git clone https://github.com/AndiXplorer/saycheese.git
 cd saycheese
 bash saycheese.sh
 ```
@@ -34,7 +34,7 @@ bash saycheese.sh
 
 ## Credits
 - **Original Author:** thelinuxchoice
-- **Template & Fixes:** Updated for 2024 compatibility.
+- **Template & Fixes:** Updated for 2026 compatibility.
 
 ---
 **Disclaimer:** This tool is for educational purposes only. Unauthorized use of this tool for accessing cameras without consent is illegal and unethical.
