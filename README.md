@@ -26,6 +26,12 @@ cd saycheese
 bash saycheese.sh
 ```
 
+
+> ⚠️ Status Note <br>
+> Serveo: Working (Recommended)<br>
+> Ngrok: Currently not working in this version. <br>
+<b>Please use Option 1 when running the script. </br>
+
 ## Dependencies
 - `php`
 - `ssh`
